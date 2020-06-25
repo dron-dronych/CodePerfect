@@ -10,8 +10,11 @@ Code is more often read than written. I definitely agree with that as we all fir
 **Good code code should speak for itself** bringing in this concept of self-documenting code where much of the explanation what the code does comes from the actual proper namings: constants, variables, classes, methods & functions, modules & packages.
 
 ### Standards: a way for beginners
+I share the opinion that for beginners it is best to stick to the widely accepted standards, e.g. Python's PEP8 or Java's standards and common practices.
 ### Your project standards
+Many teams have a bit of their own flavor and understanding what makes a good code for their particular project.
 ### Framework-imposed styles
+Frameworks impose their own code-writing style; what may be excessive in naming, for example, may in fact be an accepted practice within a particular framework itself.
 
 DISCLAIMER
 
