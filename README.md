@@ -11,6 +11,9 @@ Code is more often read than written. I definitely agree with that as we all fir
 
 ### Standards: a way for beginners
 I share the opinion that for beginners it is best to stick to the widely accepted standards, e.g. Python's PEP8 or Java's standards and common practices.
+- [Java Code Conventions (1999)](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+- [Python Style Guide (PEP-8) Explained](https://realpython.com/python-pep8/)
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 ### Your project standards
 Many teams have a bit of their own flavor and understanding what makes a good code for their particular project.
 ### Framework-imposed styles
