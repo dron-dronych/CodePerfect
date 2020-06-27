@@ -16,6 +16,14 @@ Many teams have a bit of their own flavor and understanding what makes a good co
 ### Framework-imposed styles
 Frameworks impose their own code-writing style; what may be excessive in naming, for example, may in fact be an accepted practice within a particular framework itself.
 
+## Fundamental Principles
+Targeting reusability, team cooperation, and maintenance with scalability
+- Don't Repeat Yourself - the DRY principle
+- SOLID principles
+
+## Commenting & documenting your code
+Even though good code should speak for itself, there are inevitable places in code where comments and documentation take over. This becomes essential in public projects and within a team, once you go out the code-for-yourself mode.
+
 DISCLAIMER
 
 *This guide is being developed as part of the learning process and all your comments and suggestions are highly welcomed!*
