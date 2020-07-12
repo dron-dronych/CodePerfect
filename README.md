@@ -25,7 +25,7 @@ Targeting reusability, team cooperation, and maintenance with scalability
 - SOLID principles
 
 ## Commenting & documenting your code
-Even though good code should speak for itself, there are inevitable places in code where comments and documentation take over. This becomes essential in public projects and within a team, once you go out the code-for-yourself mode.
+Even though good code should speak for itself, there are inevitable places in code where comments and documentation take over. This becomes essential in public projects and within a team, once you go out the code-for-yourself mode. But even in this mode, reading your code after a few months you want to make sure you won't be asking yourself a question like: *Why the hell did I write that?* I find comments applicable where it isn't completely obvious why I wrote a line of code such as hacks in my algorithms solvers. 
 
 DISCLAIMER
 
