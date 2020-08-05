@@ -15,7 +15,7 @@ I share the opinion that for beginners it is best to stick to the widely accepte
 - [Python Style Guide (PEP-8) Explained](https://realpython.com/python-pep8/)
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 ### Your project standards
-Many teams have a bit of their own flavor and understanding what makes a good code for their particular project.
+Many teams have a bit of their own flavor and understanding what makes a good code for their particular project. Companies may even introduce internal well-written guidelines and practices. Such practices may include individual project-induced practices and code samples, such as those developed over time and started by the core team, for example.
 ### Framework-imposed styles
 Frameworks impose their own code-writing style; what may be excessive in naming, for example, may in fact be an accepted practice within a particular framework itself.
 
