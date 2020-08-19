@@ -35,6 +35,10 @@ For example, in my series of solving algorithmic problems I find this helpful in
 stops = [arg for arg in args]
 stops.append(distance)  # last point on the route
 ```
+or
+```c++
+int stops [n_stops + 2]; // add origin & destination points to stops
+```
 
 DISCLAIMER
 
