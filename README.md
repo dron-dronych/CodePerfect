@@ -40,6 +40,9 @@ or
 int stops [n_stops + 2]; // add origin & destination points to stops
 ```
 
+## Architectural Patterns
+One interesting read on objections to the service layer from the Service-Oriented Architecture in Django applications: [Against Services in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/)
+
 DISCLAIMER
 
 *This guide is being developed as part of the learning process and all your comments and suggestions are highly welcomed!*
