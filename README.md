@@ -16,6 +16,9 @@ I share the opinion that for beginners it is best to stick to the widely accepte
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 ### Your project standards
 Many teams have a bit of their own flavor and understanding what makes a good code for their particular project. Companies may even introduce internal well-written guidelines and practices. Such practices may include individual project-induced practices and code samples, such as those developed over time and started by the core team, for example.
+
+As an example, in Python's Django framework some teams introduce the service layer that can be written in various ways. Other projects may treat this as extra-complexity and implement their business logic in the view layer.
+
 ### Framework-imposed styles
 Frameworks impose their own code-writing style; what may be excessive in naming, for example, may in fact be an accepted practice within a particular framework itself.
 
