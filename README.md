@@ -30,6 +30,8 @@ Targeting reusability, team cooperation, and maintenance with scalability
 Quick summary of Robert Martin's Clean Code - [cheat sheet](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)<br>
 or the book itself (but you can find a version online) - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 ## Commenting & documenting your code
+As the authors of *The Pragmatic Programmer* have correctly put it - *"...bad code required lots of comments."*
+
 Even though good code should speak for itself, there are inevitable places in code where comments and documentation take over. This becomes essential in public projects and within a team, once you go out the code-for-yourself mode. But even in this mode, reading your code after a few months you want to make sure you won't be asking yourself a question like: *Why the hell did I write that?* I find comments applicable where it isn't completely obvious why I wrote a line of code such as hacks in my algorithms solvers.
 
 For example, in my series of solving algorithmic problems I find this helpful in solving the [car fueling problem](https://github.com/dron-dronych/python-algorithms/blob/master/greedy/car_fueling.py):
