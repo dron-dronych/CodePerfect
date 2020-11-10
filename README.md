@@ -29,6 +29,13 @@ Targeting reusability, team cooperation, and maintenance with scalability
 
 Quick summary of Robert Martin's Clean Code - [cheat sheet](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)<br>
 or the book itself (but you can find a version online) - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+### Orthogonality
+We all remember from high school that two vectors are called orthogonal to each other if they meet at a 90-degree angle. It's just a fancy word for perpendicular. You make a change in one direction, and the other part isn't affected by that change.
+
+Simple test for orthogonality: *If my requirements experience subtle changes, how many layers (modules/functions) in my code will be affected by that change?*<br>
+The fewer the better, with a theoretico-magical of 1.
+
 ## Commenting & documenting your code
 As the authors of *The Pragmatic Programmer* have correctly put it - *"...bad code required lots of comments."*
 
