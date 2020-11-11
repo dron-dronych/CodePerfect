@@ -24,7 +24,7 @@ Frameworks impose their own code-writing style; what may be excessive in naming,
 
 ## Fundamental Principles
 Targeting reusability, team cooperation, and maintenance with scalability
-- Don't Repeat Yourself - the DRY principle
+- Don't Repeat Yourself - the DRY principle - main goal to reduce duplication within a system (amongst its various components)
 - SOLID principles
 
 Quick summary of Robert Martin's Clean Code - [cheat sheet](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)<br>
