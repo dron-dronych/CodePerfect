@@ -59,6 +59,8 @@ One interesting read on objections to the service layer from the Service-Oriente
 
 [High-level look at 5 architectural patterns](https://dzone.com/articles/5-major-software-architecture-patterns)
 
+[Application Architecture Patterns Guide](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn600223(v=pandp.10)) by Microsoft on 24 application architecture patterns with in-depth look at each and use cases
+
 DISCLAIMER
 
 *This guide is being developed as part of the learning process and all your comments and suggestions are highly welcomed!*
