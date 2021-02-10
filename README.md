@@ -52,7 +52,13 @@ or
 int stops [n_stops + 2]; // add origin & destination points to stops
 ```
 
-As the project goes, so does your knowledge that might be already spread across different modules. This includes comments whose amount grows as well introducing more **space and time** for maintenance. Unnecessary comments in one place (especially with modules duplicated across the project) will have to be undoubtedly taken care of with new requirements or bug fixes. 
+As the project goes, so does your knowledge that might be already spread across different modules. This includes comments whose amount grows as well introducing more **space and time** for maintenance. Unnecessary comments in one place (especially with modules duplicated across the project) will have to be undoubtedly taken care of with new requirements or bug fixes.
+
+## Collaborating
+
+Gitlab offers a good [guide](https://learn.gitlab.com/c/version-control-best-practice?x=-RIZtH) on version control best practices.
+
+The have also developed a well written [guide](https://learn.gitlab.com/smb-vcc-1/branching-strategies) on branching strategies.
 
 ## Architectural Patterns
 One interesting read on objections to the service layer from the Service-Oriented Architecture in Django applications: [Against Services in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/)
