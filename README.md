@@ -7,7 +7,9 @@ Learning to write quality code together
 
 Code is more often read than written. I definitely agree with that as we all first read a lot of our own code, and then as we mature on software engineering - we inevitably read a lot of the others' code. So, why not make this reading process a pleasant activity for everyone?
 
-**Good code code should speak for itself** bringing in this concept of self-documenting code where much of the explanation what the code does comes from the actual proper namings: constants, variables, classes, methods & functions, modules & packages. Definitely checkout this [naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) on the universal rules and good practices. 
+**Good code code should speak for itself** bringing in this concept of self-documenting code where much of the explanation what the code does comes from the actual proper namings: constants, variables, classes, methods & functions, modules & packages. Definitely checkout this [naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) on the universal rules and good practices.
+
+[Here](https://realpython.com/python-code-quality/) you can read about good Python code quality with some of the popular tools for that. 
 
 ### Standards: a way for beginners
 I share the opinion that for beginners it is best to stick to the widely accepted standards, e.g. Python's PEP8 or Java's standards and common practices.
